@@ -1,0 +1,18 @@
+approach: best_of_n
+model_path: deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+model_name_: R1-1p5B
+use_prm: false
+system_prompt: Please reason step by step, and put your final answer within \boxed{}.
+
+temperature: 0.6
+top_p: 0.95
+max_tokens: 16000
+n: 32
+gpu_memory_utilization: 0.9
+search_batch_size: 6
+
+dataset_name: HuggingFaceH4/aime_2024
+dataset_split: train
+
+seed: 30
+output_dir: output_dir

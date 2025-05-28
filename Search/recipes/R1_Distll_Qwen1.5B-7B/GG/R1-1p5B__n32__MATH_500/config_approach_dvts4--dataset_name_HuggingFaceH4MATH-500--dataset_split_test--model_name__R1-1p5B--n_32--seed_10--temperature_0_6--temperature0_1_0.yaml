@@ -1,0 +1,21 @@
+approach: dvts4
+use_prm: false
+system_prompt: Please reason step by step, and put your final answer within \boxed{}.
+temperature0: 1.0
+temperature: 0.6
+top_p: 0.95
+max_tokens: 14000
+beam_width: 2
+min_step_tokens: 50
+num_iterations: 200
+novelty_bonus: 0.5
+gamma: 0
+model_path: Model_path
+model_name_: R1-1p5B
+n: 32
+gpu_memory_utilization: 0.9
+search_batch_size: 10
+dataset_name: HuggingFaceH4/MATH-500
+dataset_split: test
+seed: 10
+output_dir: /output_dir/R1-1p5B__n32__MATH_500/experiment_approach_dvts4--dataset_name_HuggingFaceH4MATH-500--dataset_split_test--model_name__R1-1p5B--n_32--seed_10--temperature_0_6--temperature0_1_0

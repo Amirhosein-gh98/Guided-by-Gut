@@ -1,0 +1,22 @@
+model_path: Qwen/Qwen2.5-Math-1.5B-Instruct
+model_name_: Qwen2.5-Math-1.5B
+system_prompt: Solve the following math problem efficiently and clearly:\n\n- For simple problems (2 steps or fewer):\nProvide a concise solution with minimal explanation.\n\n- For complex problems (3 steps or more):\nUse this step-by-step format:\n\n## Step 1: [Concise description]\n[Brief explanation and calculations]\n\n## Step 2: [Concise description]\n[Brief explanation and calculations]\n\n...\n\nRegardless of the approach, always conclude with:\n\nTherefore, the final answer is: $\\boxed{answer}$. I hope it is correct.\n\nWhere [answer] is just the final number or expression that solves the problem.
+custom_chat_template: null
+approach: dvts
+use_prm: true
+gpu_memory_utilization: 0.2
+n: 32
+beam_width: 2
+search_batch_size: 1
+prm_batch_size: 1
+num_iterations: 50
+max_tokens: 2048
+novelty_bonus: 0.5
+gamma: 0
+temperature: 0.7
+top_p: 0.95
+replace_broken_beams: false
+dataset_name: HuggingFaceH4/MATH-500
+dataset_split: test
+seed: 0
+output_dir: output_dir/PRM_ablations_data/PRM_WithPRM/CONF_MATH_500_n32_m2_seed0
