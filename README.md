@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/GG_logo.png" alt="Search & Learn logo" width="200">
+  <img src="assets/GG_logo.png" alt="Search & Learn logo" width="100">
 </p>
 
 ---
