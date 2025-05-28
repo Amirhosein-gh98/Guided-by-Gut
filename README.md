@@ -228,6 +228,22 @@ python scripts/test_time_compute.py $CONFIG
 ---
 
 
+### Citation
+
+If you find our work useful, please consider citing our paper in your research.
+
+
+```
+@misc{ghasemabadi2025guidedgutefficienttesttime,
+      title={Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence}, 
+      author={Amirhosein Ghasemabadi and Keith G. Mills and Baochun Li and Di Niu},
+      year={2025},
+      eprint={2505.20325},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.20325}, 
+}
+```
 ---
 
 ## Acknowledgements
