@@ -5,7 +5,7 @@
 ---
 
 
-# Guided by Gut (GG)
+# Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence [📄 Paper Link](https://arxiv.org/abs/2505.20325)
 
 **Guided by Gut (GG)** is an efficient Test-Time Scaling (TTS) framework that
 combines
