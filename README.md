@@ -10,7 +10,7 @@
 
 <h5 align="center">
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](http://arxiv.org/abs/2505.22651)  [![GitHub Stars](https://img.shields.io/github/stars/Amirhosein-gh98/Guided-by-Gut?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=000000)](https://github.com/Amirhosein-gh98/Guided-by-Gut)
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](http://arxiv.org/abs/2505.20325)  [![GitHub Stars](https://img.shields.io/github/stars/Amirhosein-gh98/Guided-by-Gut?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=000000)](https://github.com/Amirhosein-gh98/Guided-by-Gut)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://huggingface.co/collections/Tuwhy/sherlock-6835f46e450a48f228f7e80d)  -->
 
 
