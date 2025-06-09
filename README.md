@@ -4,8 +4,18 @@
 
 ---
 
+<h2 align="center"> <a href="https://arxiv.org/abs/2505.20325">Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence</a></h2>
 
-# Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence [📄 Paper Link](https://arxiv.org/abs/2505.20325)
+<h5 align="center"> If you find our project is helpful, please consider to give us a star ⭐ on GitHub!</h5>
+
+<h5 align="center">
+
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](http://arxiv.org/abs/2505.22651)  [![GitHub Stars](https://img.shields.io/github/stars/Amirhosein-gh98/Guided-by-Gut?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=000000)](https://github.com/Amirhosein-gh98/Guided-by-Gut)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://huggingface.co/collections/Tuwhy/sherlock-6835f46e450a48f228f7e80d)  -->
+
+
+</h5>
+
 
 **Guided by Gut (GG)** is an efficient Test-Time Scaling (TTS) framework that
 combines
